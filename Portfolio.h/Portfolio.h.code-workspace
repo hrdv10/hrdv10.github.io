@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Assest"
+		},
+		{
+			"path": "../script"
+		}
+	],
+	"settings": {}
+}
